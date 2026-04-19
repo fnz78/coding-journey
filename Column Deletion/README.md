@@ -37,17 +37,19 @@ column-deletion-project/
 
 ## 🛠️ How to Run
 1. Clone the repo
+   ```
    git clone https://github.com/your-username/column-deletion-project.git
+   
    cd column-deletion-project
-   
+   ```
 3. Run main program
-   
+   ```
    python main.py
-   
+   ```
 3. Run tests
-
+```
    python test_cases.py
-
+```
    ## 🌟 Features
 . Beginner-friendly implementation
 . Clean and modular code
