@@ -33,22 +33,23 @@ A beginner-friendly Python project to validate correct usage of capital letters 
 python detect_capital.py
 ```
 Run Test Cases
+```
 python test_cases.py
-
+```
 
 
 ## 🧠 Core Logic
-
+```
 def detectCapitalUse(word):
     return word.isupper() or word.islower() or word.istitle()
-
+```
     
 ## 🎯 Learning Goals
 
-Python string methods
-Writing clean functions
-Basic testing structure
-GitHub project setup
+- Python string methods
+- Writing clean functions
+- Basic testing structure
+- GitHub project setup
 
 ## ⭐ Support
 
