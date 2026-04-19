@@ -44,6 +44,7 @@ CapsGuard/
 │── requirements.txt
 │── .gitignore
 │── README.md
+|──problem statement.txt
 
 ```
 ## 🧠 Core Logic
