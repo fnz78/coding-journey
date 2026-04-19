@@ -24,19 +24,6 @@ Column 2 → c, e, e ✅ sorted
 Output:
 1
 
-## 📁 Project Structure
-
-```text
-column-deletion-project/
-│
-├── main.py             
-├── solution.py         
-├── test_cases.py        
-├── README.md           
-└── requirements.txt    
-|──problem statement.txt
-
-```
 
 
 ## 🛠️ How to Run
