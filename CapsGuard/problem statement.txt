@@ -1,0 +1,16 @@
+Problem Statement
+
+Given a string word, determine whether the usage of capital letters in it is correct.
+
+A word is considered valid if it satisfies any one of the following conditions:
+
+All letters in the word are uppercase.
+Example: "USA" → True
+All letters in the word are lowercase.
+Example: "hello" → True
+Only the first letter is uppercase, and the rest are lowercase.
+Example: "Google" → True
+
+If the word does not follow any of these rules, return False.
+
+Example: "FlaG" → False
