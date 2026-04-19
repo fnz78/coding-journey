@@ -36,17 +36,7 @@ Run Test Cases
 python test_cases.py
 
 
-## 📂 Project Structure
-```text
-CapsGuard/
-│── detect_capital.py
-│── test_cases.py
-│── requirements.txt
-│── .gitignore
-│── README.md
-|──problem statement.txt
 
-```
 ## 🧠 Core Logic
 
 def detectCapitalUse(word):
