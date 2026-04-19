@@ -37,6 +37,7 @@ python test_cases.py
 
 
 ## 📂 Project Structure
+
 CapsGuard/
 │── detect_capital.py
 │── test_cases.py
