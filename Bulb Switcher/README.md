@@ -49,7 +49,7 @@ So, the answer is:
 
 
 
-▶️ How to Run
+## ▶️ How to Run
 
 Run program
 ```
@@ -60,29 +60,16 @@ Run tests
 python -m unittest test_bulb_switcher.py
 ```
 
-Complexity
 
-Type⏱️
-
-Complexity
-
-Time
-
-O(1) 🚀
-
-Space
-
-O(1)
-
-🌟 Key Takeaway
+## 🌟 Key Takeaway
 
 Instead of simulating toggles (slow), just count perfect squares.
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! Feel free to improve explanations or add features.
 
-⭐ If you like this project
+## ⭐ If you like this project
 
 Give it a star on GitHub ⭐ and share it!
