@@ -51,8 +51,8 @@ Time: O(n)
 Space: O(1)
 
 ## 🌟 Features
-Beginner-friendly logic
-Optimized solution
-Unit tests included
+- Beginner-friendly logic
+- Optimized solution
+- Unit tests included
 
 ---
