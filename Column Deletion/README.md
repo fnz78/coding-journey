@@ -26,13 +26,15 @@ Output:
 
 ## 📁 Project Structure
 
+```text
 column-deletion-project/
 │
-├── main.py                # Run the program
-├── solution.py            # Core logic
-├── test_cases.py          # Test cases
-├── README.md              # Project documentation
-└── requirements.txt       # (Optional dependencies)
+├── main.py              # Run the program
+├── solution.py          # Core logic
+├── test_cases.py        # Test cases
+├── README.md            # Project documentation
+└── requirements.txt     # (Optional dependencies)
+```
 
 
 ## 🛠️ How to Run
