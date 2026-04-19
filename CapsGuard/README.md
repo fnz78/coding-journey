@@ -37,7 +37,7 @@ python test_cases.py
 
 
 ## 📂 Project Structure
-
+```text
 CapsGuard/
 │── detect_capital.py
 │── test_cases.py
@@ -45,7 +45,7 @@ CapsGuard/
 │── .gitignore
 │── README.md
 
-
+```
 ## 🧠 Core Logic
 
 def detectCapitalUse(word):
