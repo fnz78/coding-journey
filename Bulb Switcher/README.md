@@ -1,5 +1,4 @@
 ## 💡 Bulb Switcher Problem
-
 A clean and beginner-friendly Python project to solve the classic Bulb Switcher problem efficiently.
 
 ## 🚀 Problem Statement
