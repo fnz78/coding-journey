@@ -1,4 +1,4 @@
-# 🔢 Count Substrings with Only 1's
+#  Count Substrings with Only 1's
 
 ## 📌 Problem
 Given a binary string `s`, return the number of substrings that contain only `'1'`.
