@@ -1,4 +1,4 @@
-## 📦 Column Deletion Problem (LeetCode Style)
+##  Column Deletion Problem
 
 A beginner-friendly Python project that solves the "Delete Columns to Make Sorted" problem.
 
